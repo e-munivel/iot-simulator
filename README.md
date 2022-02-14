@@ -1,4 +1,4 @@
-**[IoT Simulator]**
+# IoT Simulator
 
 ## Table of Content
 - [Solution Overview](#solution-overview)
